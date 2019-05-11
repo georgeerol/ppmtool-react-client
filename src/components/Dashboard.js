@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import ProjectItem from "../Project/ProjectItem";
-import CreateProjectButton from "../Project/CreateProjectButton";
+import ProjectItem from "./Project/ProjectItem";
+import CreateProjectButton from "./Project/CreateProjectButton";
 
 class Dashboard extends Component {
   render() {
